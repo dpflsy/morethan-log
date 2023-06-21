@@ -51,9 +51,9 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "dpflsy/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
