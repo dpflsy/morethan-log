@@ -10,6 +10,8 @@ const CONFIG = {
     github: "dpflsy25",
     instagram: "",
   },
+  projects: [
+  ],
   // blog setting (required)
   blog: {
     title: "yerin-log",
